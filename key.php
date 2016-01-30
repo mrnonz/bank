@@ -1,0 +1,6 @@
+<?php
+$K_USERNAME = '/KzPPCMK3ShndXUXym0ipXUAjE+Fiud6V5Xu4exwfjA=';
+$K_PASSWORD = 'rtwm7XSbA0b2r8KIzYUDCScaNdF/bT0oelkgiQqTp5A=';
+$K_ACCOUNT_NAME = '361-2-59629-7';
+
+?>
